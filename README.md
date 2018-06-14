@@ -28,8 +28,8 @@ The script main.py will run everything. In particular, it will:
     
 Description of the other files:
 
-optimize_PAC_bound.py: Solves the Relative Entropy Program for optimizing PAC-Bayes controllers
+optimize_PAC_bound.py: Solves the Relative Entropy Program for optimizing PAC-Bayes controllers.
 
-utils_simulation.py: Contains a number of utility functions for performing simulations (e.g., generating obstacle environments, implementing the robot's dynamics, simulating the depth sensor, etc.)
+utils_simulation.py: Contains a number of utility functions for performing simulations (e.g., generating obstacle environments, implementing the robot's dynamics, simulating the depth sensor, etc.).
 
-compute_kl_inverse.py: Self-contained implementation for computing the KL inverse using Relative Entropy Programming
+compute_kl_inverse.py: Self-contained implementation for computing the KL inverse using Relative Entropy Programming.
