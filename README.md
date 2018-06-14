@@ -20,11 +20,11 @@ SCS solver: https://github.com/cvxgrp/scs
 
 The script main.py will run everything. In particular, it will:
 
-    - Optimize the PAC-Bayes controller using Relative Entropy Programming 
+- Optimize the PAC-Bayes controller using Relative Entropy Programming 
     
-    - Estimate the true expected cost for the optimized controller on novel environments in order to compare with the PAC-Bayes bound (In order to speed things up, we use a small number of environments here. A large number of samples should be used for a more accurate estimate, as is done in the paper.)
+- Estimate the true expected cost for the optimized controller on novel environments in order to compare with the PAC-Bayes bound (In order to speed things up, we use a small number of environments here. A large number of samples should be used for a more accurate estimate, as is done in the paper.)
     
-    - Visualize the controller running on a number of test environments.
+- Visualize the controller running on a number of test environments.
     
 Description of the other files:
 
