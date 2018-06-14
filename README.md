@@ -6,6 +6,8 @@ Code for paper:
 
 Authors: Anirudha Majumdar and Maxwell Goldstein
 
+Link to paper: https://arxiv.org/abs/1806.04225
+
 The code here provides a complete implementation of the Relative Entropy Programming version of the approach presented in the paper on the obstacle avoidance example. 
 
 # Requirements
