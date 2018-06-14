@@ -12,7 +12,7 @@ The code here provides a complete implementation of the Relative Entropy Program
 
 # Requirements
 
-Pybullet: https://pybullet.org/wordpress/
+PyBullet: https://pybullet.org/wordpress/
 
 CVXPY: https://github.com/cvxgrp/cvxpy
 
