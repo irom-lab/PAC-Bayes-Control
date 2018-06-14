@@ -4,7 +4,7 @@ Code for paper:
 
 "PAC-Bayes Control: Synthesizing Controllers that Provably Generalize to Novel Environments"
 
-Anirudha Majumdar and Maxwell Goldstein
+Authors: Anirudha Majumdar and Maxwell Goldstein
 
 The code here provides a complete implementation of the Relative Entropy Programming version of the approach presented in the paper on the obstacle avoidance example. 
 
